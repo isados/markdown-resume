@@ -10,7 +10,7 @@ keywords:
   - 'mysql'
   - 'linux'
 author:
-- I am the author
+- Isa AlDoseri
 subject: 'Subject'
 ---
 ###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
@@ -38,7 +38,7 @@ subject: 'Subject'
 
 ## Experience
 
-### CEO and Founder, Pied Piper
+### Systems Analyst, Pet Arabia
 
 start-date-end-date, City, State and remote
 
@@ -56,6 +56,47 @@ start-date-end-date, City, State and remote
 
 **Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
 
+### Senior Software Architect, Hooli
+
+2010-2016, San Francisco, CA
+
+- This is the job you had before your latest job
+- Did you do anything that wasn't part of your job description, but you excelled at?
+
+**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+
+### Senior Software Architect, Hooli
+
+2010-2016, San Francisco, CA
+
+- This is the job you had before your latest job
+- Did you do anything that wasn't part of your job description, but you excelled at?
+
+**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+### Senior Software Architect, Hooli
+
+2010-2016, San Francisco, CA
+
+- This is the job you had before your latest job
+- Did you do anything that wasn't part of your job description, but you excelled at?
+
+**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+### Senior Software Architect, Hooli
+
+2010-2016, San Francisco, CA
+
+- This is the job you had before your latest job
+- Did you do anything that wasn't part of your job description, but you excelled at?
+
+**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+### Senior Software Architect, Hooli
+
+2010-2016, San Francisco, CA
+
+- This is the job you had before your latest job
+- Did you do anything that wasn't part of your job description, but you excelled at?
+
+**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
 ## Awards & Recognition
 
 - Winner TechCrunch Disrupt 2001
