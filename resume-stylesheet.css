@@ -64,7 +64,7 @@ template {
  */
 
 html {
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
     /* 1 */
     -ms-text-size-adjust: 100%;
     /* 2 */
@@ -437,12 +437,25 @@ table {
 
 
 @font-face {
-    font-family: 'Roboto';
+    font-family: 'Rubik';
     font-style: normal;
-    font-weight: 100;
-    src: local('Roboto Thin'), local('Roboto-Thin'), url(http://themes.googleusercontent.com/static/fonts/roboto/v10/vzIUHo9z-oJ4WgkpPOtg1_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+    font-weight: normal;
+    src: url('./Rubik/static/Rubik-Regular.ttf');
 }
 
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: bold;
+    src: url('./Rubik/static/Rubik-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: normal;
+    src: url('./Rubik/static/Rubik-Italic.ttf');
+}
 
 html,
 body {
@@ -459,7 +472,8 @@ body {
 }
 
 body {
-    font: 13.34pxHelvetica;
+    /* font: 13.34pxHelvetica; */
+    font-family: Rubik;
     -webkit-font-smoothing: subpixel-antialiased;
     line-height: 1.4;
     padding: 3px;
@@ -527,7 +541,7 @@ h2 {
 
 h3 {
     font-size: 18px;
-    color: #333
+    color: #333;
     -webkit-margin-before: 0.01em;
     -webkit-margin-after: 0.01em;
 }

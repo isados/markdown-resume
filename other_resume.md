@@ -52,6 +52,8 @@ Aug 2021 - **Present**, Bahrain
     - Offer Capacity Building & Training on New processes.
 
 - Achievements
+    - Introduced 15 crucial workflow improvements with Odoo modules
+    - Implemented a robust reporting infrastructure using Apache Airflow, AWS, and Apache Superset for data visualization. Designed and managed ETL pipelines with Postgres, delivering actionable business insights to senior management.
     - Increased Sales by reducing orders cancellations with **Instashop by 34%** by building a Real-time Stock API Integration, eliminating merchandisers labor
     - Organized, instructed and developed several data migration projects to ensure smooth transition using **pandas, SQL, and python-odoo modules**. Examples include, our entire inventory and stock valuation, our ecommerce site https://petarabia.com
     - Managed **multiple technical capacity** building session for HR, Accounting, Sales & Inventory Departments in the form of in-person meetings and/or videos.
@@ -87,7 +89,7 @@ May 2021 - Jul 2021, Bahrain
     - Our team successfully researched & built a prototype intrusion-detection system, within headquarters; using Sci-Kit Learn & Pandas.
 
 ### Regional Support Manager (MEA Region), AIESEC International
-Apr 2020 - Jul 2022, Bahrain (Remote)
+Apr 2020 - Jul 2022, MEA (Remote)
 
 - Developed & maintained dashboards & data structures with the Regional Team of AIESEC International; to track performance growth for members in 28 countries; concretely & transparently.
 - Coached Vice Presidents and Team Leaders on the use of the dashboard tool.
@@ -160,7 +162,7 @@ Jan 2018 - May 2018, Bangalore, India
 [**Breast Cancer Screening using Keras**](https://github.com/isados/breast-cancer-screening) (Jan 2018 - Jun 2018)
 
 - Associated with Acharya Institutes
-- Final year team project on distinguishing forms of breast cancer using a Keras, a deep learning framework.
+- Final year team project on distinguishing forms of breast cancer using Keras; a deep learning framework.
 - Compiled a report on the study, and worked on it while interning at a Data Science startup.
 - *Contributors: Sumanth Krishna, Srujana*
 
@@ -180,6 +182,7 @@ Jan 2018 - May 2018, Bangalore, India
 - IBM Data Science Professional Certificate | Coursera | Issued Aug 2021
 - Tableau Essential Training (2020.1) | LinkedIn Learning ⋅ Course Certificate | Issued Jan 2021
 - Cisco Certified Network Associate Routing and Switching (CCNA) | Cisco | Issued Oct 2020 · Expires Oct 2023
+- [ChatGPT Prompt Engineering for Developers | DeepLearning.AI |  Issued Jun 2024](https://learn.deeplearning.ai/accomplishments/2fb9171a-6d32-43ec-97de-3558b58d2d96?usp=sharing)
 
 ## Education
 
