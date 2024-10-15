@@ -14,7 +14,7 @@ author:
 - Isa AlDoseri
 subject: 'Subject'
 ---
-###### [isados.github.io](https://isados.github.io/blog) . [isadosry@gmail.com](mailto:isadosry@gmail.com) . [ +973 3915 2408 ]
+###### [aldoseri.me](https://aldoseri.me) . [isadosry@gmail.com](mailto:isadosry@gmail.com) . [ +973 3915 2408 ]
 
 
 ## Skills
